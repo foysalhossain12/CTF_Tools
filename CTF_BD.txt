@@ -1,0 +1,30 @@
+----------------------------Happy NewYear ------------------
+
+step 1: Decode the given cipher using decoder tools.
+
+      here , I was use Cyber-chef 
+      
+     ***After analysis this  cipher I realize that is not classical cipher .So I bake it again and again untill get plain text .After 4 bake  I got the plain text of Cipher.
+
+Step 2: copy the url and paste in your browser and  download the file.
+
+step 3: As download file was jpg format  I was using stegnography tools for extract information but I could't . 
+       Then ,I realize this file  is zip format .So I unzip the file using unzip command 
+
+step 4 : After unzip the file I got png format file. Then  I use different types of  stegnography tools .
+
+step 5: After use exiftool  I got sensitve information such as location , comment etc. Then, I googling all sensitive        information for get Flag .
+
+step 6:When  I search Latiude and Longitude on Google I got Location and Get Information like that 
+              T-DHPYNWY4_01CFB}CFB{4P_3_3R22_T-D   ------------- Mr villain 
+
+step 7: I got comment that was  Шифри девори роҳи оҳан . So , I bake it  and got type of cryptography ,that was 
+       railway wall cipher
+
+step 8: T-DHPYNWY4_01CFB}CFB{4P_3_3R22_T-D ------- it  look like flag  so, I was trying to crack it via railway wall         cipher.
+
+Step 9: Finally, I got the flag  and that was ............. .
+
+        Note: In railway wall cipher you will get  two option  key and offset .Change your offset untill get Plain Text.
+       --------------Happy CTF ------------
+       -------------Cyber Teach 360 -------
